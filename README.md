@@ -1,20 +1,18 @@
-### Blz? Eu sou o Lukas Sampaio 👋
-
-  ##
+## Blz? Eu sou o Lukas Sampaio 👋
 
 ### Sobre mim
 
 - 🌱 Estudando Front-end
 - 🌻 Um novo amanhã, um novo sorriso. <3
 
-  ##
+##
   
 ### Estatísticas
 
 <div align="center">
   <a href="https://github.com/lukassampaio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
+  <img width="480em"src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="473em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +24,8 @@
 
   ##
 
-#### Redes Sociais
+### Redes Sociais
+  
 <div>
   <a href="https://www.instagram.com/lukass_sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukas-sampaio-87b80818a/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
