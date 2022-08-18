@@ -2,7 +2,7 @@
 
   ##
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="450" height="280"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="460" height="280"/>
 
 <div align="left">
   <a href="https://github.com/lukassampaio">
