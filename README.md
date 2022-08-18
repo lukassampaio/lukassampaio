@@ -2,14 +2,14 @@
 
   ##
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="530" height="320"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="500" height="310"/>
 
 <div align="left">
   <a href="https://github.com/lukassampaio">
 </div>
-  <img width="40%"src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="38%"src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div align="left">
-  <img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
+  <img width="38%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
