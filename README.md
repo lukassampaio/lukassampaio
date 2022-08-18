@@ -11,8 +11,6 @@
 <div align="left">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  </br>
 
   ##
 
