@@ -1,14 +1,21 @@
 <h3 align="center">Um novo amanhã, um novo sorriso. 🌻</p>
 
   ##
+  
+  </br>
+  
 <div align="center">
   <img alt="gif" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="640" height="360"/>
 </div>
 
-<div>
+  ##
+  
+  </br>
+
+<div align="center">
   <a href="https://github.com/lukassampaio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
+  <img width="496" src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
   ##
