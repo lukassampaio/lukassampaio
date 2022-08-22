@@ -1,11 +1,11 @@
-<h3 align="center">Um novo amanhã, um novo sorriso. 🌻</p>
+<h3 align="center">Um novo amanhã, um novo sorriso. 🌻</h3>
 
   ##
   
   </br>
   
 <div align="center">
-  <img alt="gif" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="640" height="360"/>
+  <img alt="gif" src="https://cdn.discordapp.com/attachments/824018634606116866/1009920678893453394/tumblr_2014ed8174d4464a2791c553d381d572_77302220_640_1.gif" width="600" height="340"/>
 </div>
 
   ##
