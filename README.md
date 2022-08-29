@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/lukassampaio">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=lukassampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&layout=compact&langs_count=7&theme=dark"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=lukassampaio&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukassampaio&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"/>
 </div>
     
   ##
