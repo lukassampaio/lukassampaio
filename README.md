@@ -1,4 +1,4 @@
-<h3 align="center">Um novo amanhã, um novo sorriso. 🌻</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=24&center=true&vCenter=true&width=1000&height=22&lines=Lukas+Sampaio,+18+anos.;Desenvolvedor+Front-end;Um+novo+amanhã,+um+novo+sorriso.+🌻)](https://git.io/typing-svg)
 
   ##
   
@@ -21,13 +21,14 @@
   ##
 
 <div align="center">
-  <h3>Estudando</h3>
+  <h3>Tecnologias</h3>
 
   <div align="center">
-    <img alt="Lukas-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="Lukas-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="Lukas-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="Lukas-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" with="35" height="35"/>
+    <img alt="Lukas-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" with="45" height="35"/>
+    <img alt="Lukas-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" with="35" height="35"/>
+    <img alt="Lukas-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" with="45" height="35"/>
+    <img alt="Lukas-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" with="35" height="35"/>
   </div>
 </div>
 
@@ -37,11 +38,12 @@
   <h3>Redes Sociais</h3>
   
   <div align="center">
-    <a href="https://www.instagram.com/lukass_sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lukas-sampaio-87b80818a/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
-    <a href = "mailto:lukassampaiorodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://t.me/LksBRZ" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="blank"></a>
+    <a href="https://www.instagram.com/lukass_sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9745f5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lukas-sampaio-87b80818a/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-9745f5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
+    <a href = "mailto:lukassampaiorodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-9745f5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/LksBRZ" target="_blank"><img src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white" target="blank"></a>
   </div>
+  
   
   ##
 
