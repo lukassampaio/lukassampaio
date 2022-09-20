@@ -38,9 +38,9 @@
   <h3>Redes Sociais</h3>
   
   <div align="center">
-    <a href="https://www.instagram.com/lukass_sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9745f5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lukas-sampaio-87b80818a/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-9745f5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
     <a href = "mailto:lukassampaiorodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-9745f5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/lukass_sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9745f5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://t.me/LksBRZ" target="_blank"><img src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white" target="blank"></a>
   </div>
   
